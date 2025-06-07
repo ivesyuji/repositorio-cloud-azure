@@ -1,4 +1,4 @@
-___
+# Acesso e Segurança
 ## **Microsoft Entra ID (Antigo Azure Active Directory)**
 
 O **Microsoft Entra ID** é o serviço de **gerenciamento de identidades e acesso (Identity and Access Management - IAM) baseado em nuvem** da Microsoft. Ele funciona como o diretório central para usuários, grupos e dispositivos, permitindo que as organizações gerenciem o acesso a aplicativos e recursos tanto na nuvem (Azure, Microsoft 365) quanto no local.
