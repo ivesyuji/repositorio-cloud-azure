@@ -1,4 +1,4 @@
-___
+# Tipos de Serviço de Nuvem e Modelo de Responsabilidade Compartilhada
 Ao migrar para a nuvem, as empresas podem escolher entre diferentes modelos de serviço, que determinam o nível de controle e gerenciamento que terão sobre sua infraestrutura e aplicações. Esses modelos são geralmente categorizados como IaaS, PaaS e SaaS.
 
 ## **IaaS (Infraestrutura Como Serviço)** 
