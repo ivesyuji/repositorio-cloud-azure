@@ -1,4 +1,4 @@
-___
+# Componentes da Arquitetura Azure
 ## Principais Componentes Arquitetônicos do Azure
 
 Entender a arquitetura do Azure é fundamental para criar soluções robustas e escaláveis na nuvem. Ela é composta por uma hierarquia de elementos que garantem desde a disponibilidade física dos seus dados até a organização lógica dos seus recursos e faturamento.
