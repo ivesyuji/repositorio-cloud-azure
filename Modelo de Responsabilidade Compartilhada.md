@@ -1,4 +1,5 @@
 ___
+# Modelo de Responsabilidade Compartilhada
 
 O **Modelo de Responsabilidade Compartilhada** é um conceito fundamental na segurança em nuvem que descreve as obrigações de segurança, especificando claramente os direitos e responsabilidades tanto do provedor de serviços em nuvem quanto do cliente. 
 
