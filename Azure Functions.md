@@ -1,4 +1,4 @@
-
+# Azure Functions
 **Azure Functions** é uma oferta de **PaaS (Platform as a Service)** que habilita a **computação sem servidor**. Isso significa que você pode executar seu código sem se preocupar com a infraestrutura de servidor subjacente.
 
 Seu código é **baseado em eventos** e só é executado quando chamado (por exemplo, por um HTTP request, uma mensagem em fila, ou um timer). Durante períodos de inatividade, nenhuma infraestrutura de servidor é necessária, resultando em **custos otimizados** e **escala automática** conforme a demanda.
